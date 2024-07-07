@@ -9,10 +9,7 @@
 ├── package.json
 ├── package-lock.json
 ├── public
-│   ├── favicon.ico
 │   ├── index.html
-│   ├── logo192.png
-│   ├── logo512.png
 │   ├── manifest.json
 │   └── robots.txt
 ├── README.md
