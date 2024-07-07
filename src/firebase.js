@@ -5,7 +5,7 @@ import "firebase/storage"
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const app = {
-  apiKey: "AIzaSyD1-MMGj8RihrH0UvN5XTKsatRlfd08IdE",
+  apiKey: "",
   authDomain: "drive-clone-357f8.firebaseapp.com",
   projectId: "drive-clone-357f8",
   storageBucket: "drive-clone-357f8.appspot.com",
