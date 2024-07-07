@@ -1,18 +1,8 @@
 
-
- <img src="https://i.ibb.co/M52xnzX/screely-1624025703912.png" />
-
-
-
-
-
 ### Built With
-* [React JS](https://reactjs.org/)
-* [Firebase](https://firebase.google.com/)
-* [Bootstrap](https://react-bootstrap.github.io/)
-
-### Deployed In
-* [Netlify](https://netlify.com/)
+* React JS
+* Firebase
+* Bootstrap
 
 ```bash
 📦  Google-Drive-Clone-main
@@ -56,12 +46,10 @@
 └── yarn.lock
 ```
 
-### Installation
+## Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/suhailkakar/google-drive-clone
-   ```
+   
 2. Install NPM packages
    ```sh
    npm install
@@ -76,14 +64,4 @@
    npm start
    ```
    
-   
-
-### Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-3. Commit your Changes (`git commit -m 'Some Good Features'`)
-4. Push to the Code (`git push -u origin master `)
-5. Open a Pull Request
 
