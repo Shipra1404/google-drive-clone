@@ -47,7 +47,7 @@ export default function Dashboard() {
               <p className="sidebar__navigation__item__text">My Drive</p>
             </div>
           </a>
-          <a target="_blank" rel="noreferrer" href="https://www.suhailkakar.com">
+          <a target="_blank" rel="noreferrer" href="">
             <div className="sidebar__navigation__item">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -62,7 +62,7 @@ export default function Dashboard() {
               <p className="sidebar__navigation__item__text">About Developer</p>
             </div>
             </a>
-            <a target="_blank" rel="noreferrer" href="https://www.suhailkakar.com/#contact">
+            <a target="_blank" rel="noreferrer" href="">
             <div className="sidebar__navigation__item">
               <svg
                 fill="#5f6368"
